@@ -2,11 +2,8 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-<<<<<<< HEAD
       H W
-=======
       hhhhhhh
->>>>>>> fedc8baffd664acfbbb106b3fb9fce490ffccfb9
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
     <h3>ABC</h3>
